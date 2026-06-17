@@ -1,6 +1,6 @@
-# 💫 About Me:
-# Hi there, I'm Harshit! 👋<br><br>A passionate frontend developer who loves building clean, user-friendly websites and solving logical problems. <br><br>---<br><br>### 💼 Currently Working On: Building clean and logic-driven web applications.
+Harshit | Frontend Developer
 
+I build scalable, responsive, and performance-driven web interfaces. My focus is on writing clean, maintainable code using modern frontend technology stacks.
 📚 Currently Learning: Mastering React, TypeScript, and Tailwind CSS.
 🤝 Looking for Help With: Open-source collaboration and advanced code reviews.
 💬 Ask Me About: JavaScript fundamentals, responsive layouts, or DOM manipulation.

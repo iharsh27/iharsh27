@@ -1,6 +1,10 @@
 # 💫 About Me:
-# Hi there, I'm Harshit! 👋<br><br>A passionate frontend developer who loves building clean, user-friendly websites and solving logical problems. <br><br>---<br><br>### 🚀 About Me<br><br>- 💼 **Currently Working On:** Building mini JavaScript logic projects and strengthening my web development foundation.<br>- 📚 **Currently Learning:** Mastering Advanced JavaScript concepts, DOM manipulation, and exploring **Tailwind CSS**.<br>- 🤝 **Looking for Help With:** Open-source projects or code reviews to improve my logic building.<br>- 💬 **Ask Me About:** Logic gates (JEE physics connection!), HTML/CSS basics, or why `==` and `===` are completely different! 😉<br>- ⚡ **Fun Fact:** I don't believe in guesswork ; I always prefer tracing the logic step-by-step!<br><br>---<br><br>###
+# Hi there, I'm Harshit! 👋<br><br>A passionate frontend developer who loves building clean, user-friendly websites and solving logical problems. <br><br>---<br><br>### 💼 Currently Working On: Building clean and logic-driven web applications.
 
+📚 Currently Learning: Mastering React, TypeScript, and Tailwind CSS.
+🤝 Looking for Help With: Open-source collaboration and advanced code reviews.
+💬 Ask Me About: JavaScript fundamentals, responsive layouts, or DOM manipulation.
+⚡ Fun Fact: I prefer tracing code step-by-step rather than guessing the output!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-harshit-29a675417) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hxrshit275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xharshit07@gmail.com) 

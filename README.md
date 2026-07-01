@@ -1,6 +1,6 @@
 Harshit | Frontend Developer
 
-I build scalable, responsive, and performance-driven web interfaces. My focus is on writing clean, maintainable code using modern frontend technology stacks.
+I build scalable, responsive, and performance driven web interfaces. My focus is on writing clean, maintainable code using modern frontend technology stacks.
 📚 Currently Learning: Mastering React, TypeScript, and Tailwind CSS.
 🤝 Looking for Help With: Open-source collaboration and advanced code reviews.
 💬 Ask Me About: JavaScript fundamentals, responsive layouts, or DOM manipulation.

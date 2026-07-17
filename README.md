@@ -2,27 +2,25 @@
 
 # Hi 👋, I'm Harshit
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+<h3>Frontend • Backend • Full Stack Developer | Open Source Enthusiast</h3>
 
-### Building modern web experiences with clean, scalable code.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I'm passionate about crafting responsive, scalable, and user-friendly web applications. I enjoy transforming ideas into real-world products while continuously improving my skills and contributing to the open-source community.
-
-* 🚀 Frontend • Backend • Full Stack Development
-* 🌱 Exploring modern web technologies
-* 🤝 Open Source Enthusiast
-* 💡 Love building real-world projects
-* 📫 **[xharshit07@gmail.com](mailto:xharshit07@gmail.com)**
+* 💻 Passionate about building modern and scalable web applications.
+* 🌐 Focused on **Frontend**, **Backend**, and **Full Stack Development**.
+* 🤝 Interested in **Open Source** and collaborative development.
+* 🚀 Turning ideas into real-world products through clean, maintainable code.
+* 📫 Reach me at **[xharshit07@gmail.com](mailto:xharshit07@gmail.com)**
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
@@ -32,11 +30,14 @@ I'm passionate about crafting responsive, scalable, and user-friendly web applic
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=iharsh27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iharsh27&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -44,7 +45,9 @@ I'm passionate about crafting responsive, scalable, and user-friendly web applic
 ## 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iharsh27&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
@@ -52,32 +55,20 @@ I'm passionate about crafting responsive, scalable, and user-friendly web applic
 ## 🎯 Current Focus
 
 * ⚡ Building Full Stack Applications
-* 🎨 Creating clean and responsive UI
-* 🔗 Developing scalable backend services
-* 🤝 Contributing to Open Source
+* 🎨 Crafting Responsive User Interfaces
+* 🔗 Developing Scalable Backend Services
+* 🤝 Contributing to Open Source Projects
 
 ---
 
 ## 📂 Featured Projects
 
-| Project        | Description                    |
-| -------------- | ------------------------------ |
-| 🌐 Portfolio   | Personal portfolio website     |
-| 💬 Chat App    | Real-time chat application     |
-| 📝 Notes App   | Full Stack CRUD application    |
-| 🛍️ E-Commerce | MERN Stack e-commerce platform |
+> These will grow as I build and ship more projects.
 
-> Replace these with your actual repositories as you build them.
-
----
-
-## 💻 Development Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,npm"/>
-
-</p>
+* 🌐 Personal Portfolio
+* 💬 Real-Time Chat Application
+* 📝 Full Stack Notes App
+* 🛍️ MERN E-Commerce Platform
 
 ---
 
@@ -107,6 +98,8 @@ I'm passionate about crafting responsive, scalable, and user-friendly web applic
 
 <div align="center">
 
-### ⚡ *"Build consistently. Learn endlessly. Share openly."*
+### ✨ *"Code. Build. Improve. Repeat."*
+
+⭐ Thanks for visiting my profile!
 
 </div>

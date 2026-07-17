@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Harshit
 
-<h3>Frontend • Backend • Full Stack Developer | Open Source Enthusiast</h3>
+<h3>Frontend • Backend • Full Stack Developer | Open Source Contributer</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 

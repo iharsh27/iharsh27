@@ -1,119 +1,69 @@
-# Hi, I'm Harshit
+<div align="center">
 
-<h3 align="center">Frontend • Backend • Full Stack Developer | Open Source Enthusiast</h3>
+# Harshit
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Backend+Developer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+
+Building modern web experiences with clean code.
+
+</div>
+
+---
+
+## About
+
+I'm passionate about creating modern, responsive, and scalable web applications. I enjoy building projects, exploring new technologies, and contributing to open source.
+
+* 🌐 Frontend, Backend & Full Stack Development
+* 🚀 Building real-world projects
+* 🤝 Open Source Enthusiast
+* 📫 **[xharshit07@gmail.com](mailto:xharshit07@gmail.com)**
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+I'm+Harshit;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Open+Source+Enthusiast" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 About Me
+## GitHub Stats
 
-* 💻 Passionate about building modern and scalable web applications
-* 🌐 Focused on Frontend, Backend & Full Stack Development
-* 🤝 Open Source Enthusiast
-* 🚀 Always building, exploring and improving
-* 📫 Reach me at **[xharshit07@gmail.com](mailto:xharshit07@gmail.com)**
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iharsh27&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iharsh27&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
-<p align="left">
-<a href="https://github.com/iharsh27" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+
+<a href="https://github.com/iharsh27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/dev-harshit-29a675417" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/dev-harshit-29a675417/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/hxrshit275" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://x.com/hxrshit275">
+<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
 </a>
 
 <a href="mailto:xharshit07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-</p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode" />
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
+### *"Build. Learn. Share."* 🚀
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iharsh27&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iharsh27&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iharsh27&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iharsh27&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iharsh27&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-## ✨ Quote
-
-> **"Code. Create. Contribute. Repeat."** 🚀
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=iharsh27&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</p>
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! Happy Coding 🚀
-</h3>
+</div>

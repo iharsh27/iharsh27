@@ -1,78 +1,25 @@
 <div align="center">
 
-# Hi 👋, I'm Harshit
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F172A,100:2563EB&text=Harshit&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Frontend%20•%20Backend%20•%20Full%20Stack%20Developer&descAlignY=60"/>
 
-<h3>Frontend • Backend • Full Stack Developer | Open Source Contributer</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Frontend+Developer;Backend+Developer;Full+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Clean+Code+%7C+Scalable+Solutions;Frontend+%7C+Backend+%7C+Full+Stack" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 💻 Passionate about building modern and scalable web applications.
-* 🌐 Focused on **Frontend**, **Backend**, and **Full Stack Development**.
-* 🤝 Interested in **Open Source** and collaborative development.
-* 🚀 Turning ideas into real-world products through clean, maintainable code.
-* 📫 Reach me at **[xharshit07@gmail.com](mailto:xharshit07@gmail.com)**
+I build modern, responsive, and scalable web applications with a focus on clean code and great user experiences. I enjoy solving real-world problems, exploring new technologies, and continuously improving as a developer.
 
----
-
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode"/>
-
-</p>
+* 💻 Frontend • Backend • Full Stack Development
+* 🌱 Exploring modern web technologies and development practices
+* ⚙️ Building projects that solve real problems
+* 📫 **[xharshit07@gmail.com](mailto:xharshit07@gmail.com)**
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=iharsh27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iharsh27&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iharsh27&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🎯 Current Focus
-
-* ⚡ Building Full Stack Applications
-* 🎨 Crafting Responsive User Interfaces
-* 🔗 Developing Scalable Backend Services
-* 🤝 Contributing to Open Source Projects
-
----
-
-## 📂 Featured Projects
-
-> These will grow as I build and ship more projects.
-
-* 🌐 Personal Portfolio
-* 💬 Real-Time Chat Application
-* 📝 Full Stack Notes App
-* 🛍️ MERN E-Commerce Platform
-
----
-
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -96,10 +43,59 @@
 
 ---
 
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iharsh27&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iharsh27&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iharsh27&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ Current Focus
+
+* 🌐 Building Full Stack Applications
+* ⚛️ Creating responsive user interfaces
+* 🔗 Developing scalable backend APIs
+* 📚 Exploring modern development tools and workflows
+
+---
+
+# 💭 Quote
+
 <div align="center">
 
-### ✨ *"Code. Build. Improve. Repeat."*
+> **"Build. Learn. Improve. Repeat."**
 
-⭐ Thanks for visiting my profile!
+</div>
+
+---
+
+<div align="center">
+
+Thanks for stopping by! ⭐
 
 </div>
